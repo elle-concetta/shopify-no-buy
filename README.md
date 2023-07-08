@@ -2,7 +2,7 @@
 A universal template for a Shopify product page that doesn't let customers purchase the product. It hides the pricing, and informs customers or visitors that the product is coming soon, or it's not available for purchase yet.
 
 INSTRUCTIONS TO MANUALLY INSTALL TEMPLATE:
-Keep in mind that the name of your 'Templates' and 'Sections' files for product template might be labeled a bit differently, so you may need to change the file names and some of the coding to correspong with your shopify theme.
+Keep in mind that the name of your 'Templates' and 'Sections' files for product template might be labeled a bit differently, so you may need to change the file names and some of the coding to correspond with your shopify theme.
 
 Go to the 'Online Store' option on the left hand sidebar. Click on 'Actions' and then the 'Edit Code' option.
 
